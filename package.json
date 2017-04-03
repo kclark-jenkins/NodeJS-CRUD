@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-crud",
+  "version": "1.0.0",
+  "description": "Introductory example CRUD application in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "express": "~4.14.1",
+    "mysql": "^2.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kclark-jenkins/NodeJS-CRUD.git"
+  },
+  "keywords": [
+    "nodejs",
+    "crud",
+    "example",
+    "tutorial",
+    "krisbox.org"
+  ],
+  "author": "Kristopher Clark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kclark-jenkins/NodeJS-CRUD/issues"
+  },
+  "homepage": "https://github.com/kclark-jenkins/NodeJS-CRUD#readme"
+}
