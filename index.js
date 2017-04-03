@@ -33,7 +33,7 @@ var db = {
     username: 'root',
     password: '',
     hostname: 'localhost',
-    database: 'krisboxorg_blog'
+    database: 'krisboxorg'
 };
 
 var createConnectionPool = function() {
